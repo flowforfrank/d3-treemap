@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>D3</title>
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+    </head>
+    <body>
+        <div class="options">
+            <select>
+                <option value="interpolateCool" selected="selected">interpolateCool</option>
+                <option value="interpolateCividis">interpolateCividis</option>
+                <option value="interpolateCubehelixDefault">interpolateCubehelixDefault</option>
+                <option value="interpolateInferno">interpolateInferno</option>
+                <option value="interpolateMagma">interpolateMagma</option>
+                <option value="interpolatePlasma">interpolatePlasma</option>
+                <option value="interpolateRainbow">interpolateRainbow</option>
+                <option value="interpolateSinebow">interpolateSinebow</option>
+                <option value="interpolateSpectral">interpolateSpectral</option>
+                <option value="interpolateViridis">interpolateViridis</option>
+                <option value="interpolateWarm">interpolateWarm</option>
+            </select>  
+
+            <button>Zoom out</button>
+        </div>
+
+        <svg class="treemap"></svg>
+        <svg class="temp"></svg>
+
+        <script src="https://d3js.org/d3.v5.js"></script>
+        <script src="treemap.js"></script>
+    </body>
+</html>

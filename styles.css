@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+    .options {
+        position: absolute;
+        top: 0;
+        right: 0;
+        z-index: 1;
+    }
+
+    svg {
+        position: fixed;
+        font: 12px sans-serif;
+    }
+
+    .temp {
+        pointer-events: none;
+        opacity: 0;
+    }

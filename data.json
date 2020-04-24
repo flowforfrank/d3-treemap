@@ -1,0 +1,564 @@
+{
+    "name": "react-src",
+    "children": [
+        {
+            "name": "DebugTracing.js",
+            "value": 5201
+        },
+        {
+            "name": "forks",
+            "children": [
+                {
+                    "name": "ReactFiberErrorDialog.native.js",
+                    "value": 1074
+                },
+                {
+                    "name": "ReactFiberErrorDialog.www.js",
+                    "value": 1056
+                },
+                {
+                    "name": "ReactFiberHostConfig.art.js",
+                    "value": 252
+                },
+                {
+                    "name": "ReactFiberHostConfig.custom.js",
+                    "value": 8661
+                },
+                {
+                    "name": "ReactFiberHostConfig.dom-browser.js",
+                    "value": 259
+                },
+                {
+                    "name": "ReactFiberHostConfig.dom-relay.js",
+                    "value": 259
+                },
+                {
+                    "name": "ReactFiberHostConfig.dom.js",
+                    "value": 259
+                },
+                {
+                    "name": "ReactFiberHostConfig.fabric.js",
+                    "value": 267
+                },
+                {
+                    "name": "ReactFiberHostConfig.native.js",
+                    "value": 267
+                },
+                {
+                    "name": "ReactFiberHostConfig.test.js",
+                    "value": 263
+                }
+            ]
+        },
+        {
+            "name": "MaxInts.js",
+            "value": 380
+        },
+        {
+            "name": "ReactCapturedValue.js",
+            "value": 716
+        },
+        {
+            "name": "ReactChildFiber.new.js",
+            "value": 47098
+        },
+        {
+            "name": "ReactChildFiber.old.js",
+            "value": 47085
+        },
+        {
+            "name": "ReactCurrentFiber.js",
+            "value": 1770
+        },
+        {
+            "name": "ReactFiber.new.js",
+            "value": 25417
+        },
+        {
+            "name": "ReactFiber.old.js",
+            "value": 25417
+        },
+        {
+            "name": "ReactFiberBeginWork.new.js",
+            "value": 116882
+        },
+        {
+            "name": "ReactFiberBeginWork.old.js",
+            "value": 116882
+        },
+        {
+            "name": "ReactFiberClassComponent.new.js",
+            "value": 39419
+        },
+        {
+            "name": "ReactFiberClassComponent.old.js",
+            "value": 40661
+        },
+        {
+            "name": "ReactFiberCommitWork.new.js",
+            "value": 60465
+        },
+        {
+            "name": "ReactFiberCommitWork.old.js",
+            "value": 60465
+        },
+        {
+            "name": "ReactFiberCompleteWork.new.js",
+            "value": 47902
+        },
+        {
+            "name": "ReactFiberCompleteWork.old.js",
+            "value": 47902
+        },
+        {
+            "name": "ReactFiberComponentStack.js",
+            "value": 2089
+        },
+        {
+            "name": "ReactFiberContext.new.js",
+            "value": 10306
+        },
+        {
+            "name": "ReactFiberContext.old.js",
+            "value": 10306
+        },
+        {
+            "name": "ReactFiberDeprecatedEvents.new.js",
+            "value": 6442
+        },
+        {
+            "name": "ReactFiberDeprecatedEvents.old.js",
+            "value": 6442
+        },
+        {
+            "name": "ReactFiberDevToolsHook.new.js",
+            "value": 3912
+        },
+        {
+            "name": "ReactFiberDevToolsHook.old.js",
+            "value": 3912
+        },
+        {
+            "name": "ReactFiberErrorDialog.js",
+            "value": 591
+        },
+        {
+            "name": "ReactFiberErrorLogger.js",
+            "value": 4085
+        },
+        {
+            "name": "ReactFiberExpirationTime.new.js",
+            "value": 4504
+        },
+        {
+            "name": "ReactFiberExpirationTime.old.js",
+            "value": 4471
+        },
+        {
+            "name": "ReactFiberFundamental.new.js",
+            "value": 656
+        },
+        {
+            "name": "ReactFiberFundamental.old.js",
+            "value": 656
+        },
+        {
+            "name": "ReactFiberHooks.new.js",
+            "value": 91395
+        },
+        {
+            "name": "ReactFiberHooks.old.js",
+            "value": 91784
+        },
+        {
+            "name": "ReactFiberHostConfig.js",
+            "value": 713
+        },
+        {
+            "name": "ReactFiberHostConfigWithNoHydration.js",
+            "value": 1970
+        },
+        {
+            "name": "ReactFiberHostConfigWithNoMutation.js",
+            "value": 1137
+        },
+        {
+            "name": "ReactFiberHostConfigWithNoPersistence.js",
+            "value": 980
+        },
+        {
+            "name": "ReactFiberHostContext.new.js",
+            "value": 3713
+        },
+        {
+            "name": "ReactFiberHostContext.old.js",
+            "value": 3713
+        },
+        {
+            "name": "ReactFiberHotReloading.js",
+            "value": 2855
+        },
+        {
+            "name": "ReactFiberHotReloading.new.js",
+            "value": 13055
+        },
+        {
+            "name": "ReactFiberHotReloading.old.js",
+            "value": 13055
+        },
+        {
+            "name": "ReactFiberHydrationContext.new.js",
+            "value": 15132
+        },
+        {
+            "name": "ReactFiberHydrationContext.old.js",
+            "value": 15132
+        },
+        {
+            "name": "ReactFiberLazyComponent.new.js",
+            "value": 673
+        },
+        {
+            "name": "ReactFiberLazyComponent.old.js",
+            "value": 673
+        },
+        {
+            "name": "ReactFiberNewContext.new.js",
+            "value": 12764
+        },
+        {
+            "name": "ReactFiberNewContext.old.js",
+            "value": 12756
+        },
+        {
+            "name": "ReactFiberReconciler.js",
+            "value": 5785
+        },
+        {
+            "name": "ReactFiberReconciler.new.js",
+            "value": 17119
+        },
+        {
+            "name": "ReactFiberReconciler.old.js",
+            "value": 17106
+        },
+        {
+            "name": "ReactFiberRoot.new.js",
+            "value": 6493
+        },
+        {
+            "name": "ReactFiberRoot.old.js",
+            "value": 6493
+        },
+        {
+            "name": "ReactFiberScope.new.js",
+            "value": 5064
+        },
+        {
+            "name": "ReactFiberScope.old.js",
+            "value": 5064
+        },
+        {
+            "name": "ReactFiberStack.new.js",
+            "value": 1662
+        },
+        {
+            "name": "ReactFiberStack.old.js",
+            "value": 1662
+        },
+        {
+            "name": "ReactFiberSuspenseComponent.new.js",
+            "value": 4950
+        },
+        {
+            "name": "ReactFiberSuspenseComponent.old.js",
+            "value": 4950
+        },
+        {
+            "name": "ReactFiberSuspenseConfig.js",
+            "value": 610
+        },
+        {
+            "name": "ReactFiberSuspenseContext.new.js",
+            "value": 2706
+        },
+        {
+            "name": "ReactFiberSuspenseContext.old.js",
+            "value": 2706
+        },
+        {
+            "name": "ReactFiberThrow.new.js",
+            "value": 14844
+        },
+        {
+            "name": "ReactFiberThrow.old.js",
+            "value": 15193
+        },
+        {
+            "name": "ReactFiberTreeReflection.js",
+            "value": 11699
+        },
+        {
+            "name": "ReactFiberUnwindWork.new.js",
+            "value": 4768
+        },
+        {
+            "name": "ReactFiberUnwindWork.old.js",
+            "value": 4768
+        },
+        {
+            "name": "ReactFiberWorkLoop.new.js",
+            "value": 120872
+        },
+        {
+            "name": "ReactFiberWorkLoop.old.js",
+            "value": 123651
+        },
+        {
+            "name": "ReactHookEffectTags.js",
+            "value": 505
+        },
+        {
+            "name": "ReactInternalTypes.js",
+            "value": 12103
+        },
+        {
+            "name": "ReactMutableSource.new.js",
+            "value": 4183
+        },
+        {
+            "name": "ReactMutableSource.old.js",
+            "value": 4183
+        },
+        {
+            "name": "ReactPortal.js",
+            "value": 746
+        },
+        {
+            "name": "ReactProfilerTimer.new.js",
+            "value": 3984
+        },
+        {
+            "name": "ReactProfilerTimer.old.js",
+            "value": 3984
+        },
+        {
+            "name": "ReactRootTags.js",
+            "value": 329
+        },
+        {
+            "name": "ReactSideEffectTags.js",
+            "value": 1646
+        },
+        {
+            "name": "ReactStrictModeWarnings.new.js",
+            "value": 13774
+        },
+        {
+            "name": "ReactStrictModeWarnings.old.js",
+            "value": 13774
+        },
+        {
+            "name": "ReactTypeOfMode.js",
+            "value": 543
+        },
+        {
+            "name": "ReactUpdateQueue.new.js",
+            "value": 21101
+        },
+        {
+            "name": "ReactUpdateQueue.old.js",
+            "value": 21042
+        },
+        {
+            "name": "ReactWorkTags.js",
+            "value": 1317
+        },
+        {
+            "name": "SchedulerWithReactIntegration.new.js",
+            "value": 7154
+        },
+        {
+            "name": "SchedulerWithReactIntegration.old.js",
+            "value": 7154
+        },
+        {
+            "name": "__tests__",
+            "children": [
+                {
+                    "name": "DebugTracing-test.internal.js",
+                    "value": 9412
+                },
+                {
+                    "name": "ErrorBoundaryReconciliation-test.internal.js",
+                    "value": 2960
+                },
+                {
+                    "name": "ReactBatchedMode-test.internal.js",
+                    "value": 4706
+                },
+                {
+                    "name": "ReactBlocks-test.js",
+                    "value": 5914
+                },
+                {
+                    "name": "ReactDisableSchedulerTimeoutBasedOnReactExpirationTime-test.internal.js",
+                    "value": 2682
+                },
+                {
+                    "name": "ReactExpiration-test.js",
+                    "value": 10170
+                },
+                {
+                    "name": "ReactFiberFundamental-test.internal.js",
+                    "value": 7232
+                },
+                {
+                    "name": "ReactFiberHostContext-test.internal.js",
+                    "value": 2922
+                },
+                {
+                    "name": "ReactFragment-test.js",
+                    "value": 22835
+                },
+                {
+                    "name": "ReactHooks-test.internal.js",
+                    "value": 61597
+                },
+                {
+                    "name": "ReactHooksWithNoopRenderer-test.js",
+                    "value": 113267
+                },
+                {
+                    "name": "ReactIncremental-test.js",
+                    "value": 82041
+                },
+                {
+                    "name": "ReactIncrementalErrorHandling-test.internal.js",
+                    "value": 53631
+                },
+                {
+                    "name": "ReactIncrementalErrorLogging-test.js",
+                    "value": 6472
+                },
+                {
+                    "name": "ReactIncrementalErrorReplay-test.internal.js",
+                    "value": 1618
+                },
+                {
+                    "name": "ReactIncrementalErrorReplay-test.js",
+                    "value": 1155
+                },
+                {
+                    "name": "ReactIncrementalReflection-test.js",
+                    "value": 8641
+                },
+                {
+                    "name": "ReactIncrementalScheduling-test.js",
+                    "value": 12493
+                },
+                {
+                    "name": "ReactIncrementalSideEffects-test.js",
+                    "value": 34540
+                },
+                {
+                    "name": "ReactIncrementalTriangle-test.js",
+                    "value": 16572
+                },
+                {
+                    "name": "ReactIncrementalUpdates-test.js",
+                    "value": 28650
+                },
+                {
+                    "name": "ReactIncrementalUpdatesMinimalism-test.js",
+                    "value": 3497
+                },
+                {
+                    "name": "ReactLazy-test.internal.js",
+                    "value": 33739
+                },
+                {
+                    "name": "ReactMemo-test.js",
+                    "value": 16140
+                },
+                {
+                    "name": "ReactNewContext-test.js",
+                    "value": 59721
+                },
+                {
+                    "name": "ReactNoopRendererAct-test.js",
+                    "value": 1574
+                },
+                {
+                    "name": "ReactPersistent-test.js",
+                    "value": 5744
+                },
+                {
+                    "name": "ReactPersistentUpdatesMinimalism-test.js",
+                    "value": 3749
+                },
+                {
+                    "name": "ReactSchedulerIntegration-test.js",
+                    "value": 16312
+                },
+                {
+                    "name": "ReactScope-test.internal.js",
+                    "value": 18077
+                },
+                {
+                    "name": "ReactSuspense-test.internal.js",
+                    "value": 40660
+                },
+                {
+                    "name": "ReactSuspenseCallback-test.internal.js",
+                    "value": 8601
+                },
+                {
+                    "name": "ReactSuspenseFuzz-test.internal.js",
+                    "value": 12451
+                },
+                {
+                    "name": "ReactSuspenseList-test.js",
+                    "value": 60631
+                },
+                {
+                    "name": "ReactSuspensePlaceholder-test.internal.js",
+                    "value": 18612
+                },
+                {
+                    "name": "ReactSuspenseWithNoopRenderer-test.js",
+                    "value": 119178
+                },
+                {
+                    "name": "ReactTopLevelFragment-test.js",
+                    "value": 4163
+                },
+                {
+                    "name": "ReactTopLevelText-test.js",
+                    "value": 1190
+                },
+                {
+                    "name": "ReactTracing-test.internal.js",
+                    "value": 751
+                },
+                {
+                    "name": "ReactTransition-test.js",
+                    "value": 2399
+                },
+                {
+                    "name": "useMutableSource-test.internal.js",
+                    "value": 52264
+                },
+                {
+                    "name": "__snapshots__",
+                    "children": [
+                        {
+                            "name": "ReactHooks-test.internal.js.snap",
+                            "value": 172
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
