@@ -82,11 +82,11 @@ const render = data => {
 
     // Create node
     const node = newSvg.selectAll('g')
-                       .data(d3.nest().key(d => d.height).entries(root.descendants()))
+                       .data(d3.group(root, d => d.height))
                        .join('g')
                        .attr('filter', 'url(#shadow)')
                        .selectAll('g')
-                       .data(d => d.values)
+                       .data(d => d[1])
                        .join('g')
                        .attr('transform', d => `translate(${d.x0},${d.y0})`);
     
@@ -138,7 +138,7 @@ const render = data => {
     // Add click event
     node.filter(d => d.children && d !== root)
         .attr('cursor', 'pointer')
-        .on('click', d => zoom(d.path, data));
+        .on('click', (e,d) => zoom(d.path, data));
 
     // Fade out old svg
     svg.transition()
